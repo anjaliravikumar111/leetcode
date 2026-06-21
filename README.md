@@ -33,13 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
