@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anjaliravikumar111/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/anjaliravikumar111/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/anjaliravikumar111/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/anjaliravikumar111/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/anjaliravikumar111/leetcode/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anjaliravikumar111/leetcode/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anjaliravikumar111/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anjaliravikumar111/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
