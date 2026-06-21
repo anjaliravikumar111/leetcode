@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anjaliravikumar111/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anjaliravikumar111/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/anjaliravikumar111/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/anjaliravikumar111/leetcode/tree/master/0049-group-anagrams) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anjaliravikumar111/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anjaliravikumar111/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/anjaliravikumar111/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anjaliravikumar111/leetcode/tree/master/0217-contains-duplicate) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anjaliravikumar111/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anjaliravikumar111/leetcode/tree/master/0018-4sum) |
 ## Math
 |  |
