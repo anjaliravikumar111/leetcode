@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anjaliravikumar111/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/anjaliravikumar111/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anjaliravikumar111/leetcode/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -27,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anjaliravikumar111/leetcode/tree/master/0035-search-insert-position) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
