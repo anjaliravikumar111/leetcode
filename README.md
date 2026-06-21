@@ -65,10 +65,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anjaliravikumar111/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anjaliravikumar111/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anjaliravikumar111/leetcode/tree/master/0009-palindrome-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjaliravikumar111/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anjaliravikumar111/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anjaliravikumar111/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
