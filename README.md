@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anjaliravikumar111/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/anjaliravikumar111/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anjaliravikumar111/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/anjaliravikumar111/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/anjaliravikumar111/leetcode/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -114,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/anjaliravikumar111/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
