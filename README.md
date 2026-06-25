@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/anjaliravikumar111/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anjaliravikumar111/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjaliravikumar111/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/anjaliravikumar111/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anjaliravikumar111/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/anjaliravikumar111/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anjaliravikumar111/leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
