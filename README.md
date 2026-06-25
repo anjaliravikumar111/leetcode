@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/anjaliravikumar111/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/anjaliravikumar111/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/anjaliravikumar111/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anjaliravikumar111/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anjaliravikumar111/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjaliravikumar111/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/anjaliravikumar111/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
