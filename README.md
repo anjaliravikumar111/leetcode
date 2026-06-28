@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Two Pointers
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/anjaliravikumar111/leetcode/tree/master/0933-number-of-recent-calls) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
