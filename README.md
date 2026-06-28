@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/anjaliravikumar111/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -99,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/anjaliravikumar111/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/anjaliravikumar111/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
