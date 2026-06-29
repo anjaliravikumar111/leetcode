@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/anjaliravikumar111/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/anjaliravikumar111/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/anjaliravikumar111/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/anjaliravikumar111/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -232,5 +234,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/anjaliravikumar111/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
