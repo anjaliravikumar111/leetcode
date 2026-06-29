@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjaliravikumar111/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/anjaliravikumar111/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/anjaliravikumar111/leetcode/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anjaliravikumar111/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anjaliravikumar111/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anjaliravikumar111/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
