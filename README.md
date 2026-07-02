@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anjaliravikumar111/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/anjaliravikumar111/leetcode/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/anjaliravikumar111/leetcode/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0841-keys-and-rooms](https://github.com/anjaliravikumar111/leetcode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/anjaliravikumar111/leetcode/tree/master/0872-leaf-similar-trees) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/anjaliravikumar111/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/anjaliravikumar111/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/anjaliravikumar111/leetcode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/anjaliravikumar111/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -259,9 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/anjaliravikumar111/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/anjaliravikumar111/leetcode/tree/master/0841-keys-and-rooms) |
 ## Backtracking
 |  |
 | ------- |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anjaliravikumar111/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
