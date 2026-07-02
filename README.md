@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/anjaliravikumar111/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/anjaliravikumar111/leetcode/tree/master/0649-dota2-senate) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjaliravikumar111/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/anjaliravikumar111/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anjaliravikumar111/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/anjaliravikumar111/leetcode/tree/master/0841-keys-and-rooms) |
+## Backtracking
+|  |
+| ------- |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 <!---LeetCode Topics End-->
