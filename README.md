@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anjaliravikumar111/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/anjaliravikumar111/leetcode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0994-rotting-oranges](https://github.com/anjaliravikumar111/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjaliravikumar111/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/anjaliravikumar111/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/anjaliravikumar111/leetcode/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/anjaliravikumar111/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/anjaliravikumar111/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/anjaliravikumar111/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/anjaliravikumar111/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/anjaliravikumar111/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/anjaliravikumar111/leetcode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/anjaliravikumar111/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/anjaliravikumar111/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
