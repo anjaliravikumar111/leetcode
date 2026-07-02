@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anjaliravikumar111/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/anjaliravikumar111/leetcode/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/anjaliravikumar111/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjaliravikumar111/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/anjaliravikumar111/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/anjaliravikumar111/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
