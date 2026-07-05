@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anjaliravikumar111/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/anjaliravikumar111/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anjaliravikumar111/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/anjaliravikumar111/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/anjaliravikumar111/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/anjaliravikumar111/leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/anjaliravikumar111/leetcode/tree/master/0216-combination-sum-iii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjaliravikumar111/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anjaliravikumar111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/anjaliravikumar111/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/anjaliravikumar111/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/anjaliravikumar111/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjaliravikumar111/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/anjaliravikumar111/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/anjaliravikumar111/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/anjaliravikumar111/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/anjaliravikumar111/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/anjaliravikumar111/leetcode/tree/master/2352-equal-row-and-column-pairs) |
