@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anjaliravikumar111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/anjaliravikumar111/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anjaliravikumar111/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0208-implement-trie-prefix-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/anjaliravikumar111/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjaliravikumar111/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/anjaliravikumar111/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anjaliravikumar111/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anjaliravikumar111/leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/anjaliravikumar111/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anjaliravikumar111/leetcode/tree/master/0392-is-subsequence) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0933-number-of-recent-calls](https://github.com/anjaliravikumar111/leetcode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anjaliravikumar111/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/anjaliravikumar111/leetcode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/anjaliravikumar111/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anjaliravikumar111/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
