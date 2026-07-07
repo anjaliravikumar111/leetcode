@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/anjaliravikumar111/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/anjaliravikumar111/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjaliravikumar111/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1146-snapshot-array](https://github.com/anjaliravikumar111/leetcode/tree/master/1146-snapshot-array) |
 | [1207-unique-number-of-occurrences](https://github.com/anjaliravikumar111/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/anjaliravikumar111/leetcode/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjaliravikumar111/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anjaliravikumar111/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anjaliravikumar111/leetcode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/anjaliravikumar111/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/anjaliravikumar111/leetcode/tree/master/1146-snapshot-array) |
 | [1207-unique-number-of-occurrences](https://github.com/anjaliravikumar111/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/anjaliravikumar111/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anjaliravikumar111/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/anjaliravikumar111/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/anjaliravikumar111/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/anjaliravikumar111/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1146-snapshot-array](https://github.com/anjaliravikumar111/leetcode/tree/master/1146-snapshot-array) |
 | [1268-search-suggestions-system](https://github.com/anjaliravikumar111/leetcode/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjaliravikumar111/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anjaliravikumar111/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/anjaliravikumar111/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/anjaliravikumar111/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/anjaliravikumar111/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/anjaliravikumar111/leetcode/tree/master/1146-snapshot-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anjaliravikumar111/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
