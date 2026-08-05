@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anjaliravikumar111/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anjaliravikumar111/leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/anjaliravikumar111/leetcode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/anjaliravikumar111/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/anjaliravikumar111/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/anjaliravikumar111/leetcode/tree/master/0436-find-right-interval) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anjaliravikumar111/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anjaliravikumar111/leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/anjaliravikumar111/leetcode/tree/master/0062-unique-paths) |
+| [0367-valid-perfect-square](https://github.com/anjaliravikumar111/leetcode/tree/master/0367-valid-perfect-square) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjaliravikumar111/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/anjaliravikumar111/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
