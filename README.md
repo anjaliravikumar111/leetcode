@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/anjaliravikumar111/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/anjaliravikumar111/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/anjaliravikumar111/leetcode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/anjaliravikumar111/leetcode/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anjaliravikumar111/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/anjaliravikumar111/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/anjaliravikumar111/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/anjaliravikumar111/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/anjaliravikumar111/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/anjaliravikumar111/leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/anjaliravikumar111/leetcode/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjaliravikumar111/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/anjaliravikumar111/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
