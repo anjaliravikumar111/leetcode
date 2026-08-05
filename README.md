@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/anjaliravikumar111/leetcode/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anjaliravikumar111/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anjaliravikumar111/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1539-kth-missing-positive-number](https://github.com/anjaliravikumar111/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anjaliravikumar111/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/anjaliravikumar111/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/anjaliravikumar111/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/anjaliravikumar111/leetcode/tree/master/1146-snapshot-array) |
 | [1268-search-suggestions-system](https://github.com/anjaliravikumar111/leetcode/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjaliravikumar111/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/anjaliravikumar111/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anjaliravikumar111/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
